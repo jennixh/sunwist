@@ -4,11 +4,11 @@
 
 <p>Sou desenvolvedora em formação em busca de <br/>oportunidades de estágio na área de tecnologia.</p><br>
 
-<div align="left">
-  <a href="mailto:oliveirajennifer2648@gmail.com?subject=Olá, meu nome é {seu nome}" style="text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
-  <a href="https://instagram.com/j3nnixh?igshid=MTNiYzNiMzkwZA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
-  <a href="https://www.linkedin.com/in/jennifer-oliveira-639983247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
-  <a href="https://api.whatsapp.com/send?phone=19999961768&text=Olá,%20tenho%20interesse%20no%20seu%20perfil%20profissional!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<div>
+  <a href="mailto:oliveirajennifer2648@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
+  <a href="https://instagram.com/j3nnixh?igshid=MTNiYzNiMzkwZA==" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
+  <a href="https://www.linkedin.com/in/jennifer-oliveira-639983247" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+  <a href="https://api.whatsapp.com/send?phone=19999961768&text=Olá,%20tenho%20interesse%20no%20seu%20perfil%20profissional!" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div><br><br>
 
 ### 🔧 Tecnologias, linguagens e ferramentas
@@ -16,7 +16,7 @@
 No decorrer dos meus estudos ao adquirir novos conhecimentos e habilidades fiz o uso de muitas tecnologias
 que impactaram positivamente na minha formação acadêmica.
 
-<br><div align="left">
+<br><div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -47,7 +47,7 @@ que impactaram positivamente na minha formação acadêmica.
 Com frequência, utilizei essas IDEs para desenvolver, codificar, depurar e implementar códigos.
 
 <br>
-<div align="left">
+<div>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"  />
