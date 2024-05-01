@@ -5,10 +5,10 @@
 <p>Sou desenvolvedora em formação em busca de <br/>oportunidades de estágio na área de tecnologia.</p><br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </div><br><br>
 
 ### 🔧 Tecnologias, linguagens e ferramentas
@@ -16,9 +16,7 @@
 No decorrer dos meus estudos ao adquirir novos conhecimentos e habilidades fiz o uso de muitas tecnologias
 que impactaram positivamente na minha formação acadêmica.
 
-<br clear="both">
-
-<div align="left">
+<br><div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -58,4 +56,5 @@ Com frequência, utilizei essas IDEs para desenvolver, codificar, depurar e impl
 
 ### 🎲 Conclusão
 
+Atualmente estou concentrada em desenvolver projetos para enriquecer meu portfólio como desenvolvedora e divulgá-los nas redes sociais. Além disso, estou dedicada a aprofundar meus conhecimentos em estrutura de dados, uma matéria que estou vendo na faculdade de Análise e Desenvolvimento de Sistemas (FATEC-AM), e também em aprimorar minhas habilidades na plataforma .NET com a linguagem C#.
 
