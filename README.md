@@ -1,14 +1,16 @@
-<br><img align='right' src="https://github-readme-stats.vercel.app/api?username=sunwist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Jenni's%20Github%20Stats" height="200" alt="stats graph"  /><br>
-
-### ⭐  Olá, meu nome é Jennifer!
-
-<p>Sou desenvolvedora em formação em busca de <br/>oportunidades de estágio na área de tecnologia.</p><br>
+<div>
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=sunwist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Jenni's%20Github%20Stats" height="200" alt="stats graph" />
+</div>
 
 <div>
-  <a href="mailto:oliveirajennifer2648@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
-  <a href="https://instagram.com/j3nnixh?igshid=MTNiYzNiMzkwZA==" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
-  <a href="https://www.linkedin.com/in/jennifer-oliveira-639983247" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-  <a href="https://api.whatsapp.com/send?phone=19999961768&text=Olá,%20tenho%20interesse%20no%20seu%20perfil%20profissional!" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <h3>⭐ Olá, meu nome é Jennifer!</h3>
+    <p>Sou desenvolvedora em formação em busca de oportunidades de estágio na área de tecnologia.</p>
+    <div>
+        <a href="mailto:oliveirajennifer2648@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://instagram.com/j3nnixh?igshid=MTNiYzNiMzkwZA==" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/jennifer-oliveira-639983247" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://api.whatsapp.com/send?phone=19999961768&text=Olá,%20tenho%20interesse%20no%20seu%20perfil%20profissional!" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    </div>
 </div><br><br>
 
 ### 🔧 Tecnologias, linguagens e ferramentas
