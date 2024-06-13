@@ -1,5 +1,5 @@
 <div>
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=sunwist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Jenni's%20Github%20Stats" height="200" alt="stats graph" />
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=sunwist&show_icons=true&theme=dracula" height="200" alt="stats graph" />
 </div>
 
 <div>
