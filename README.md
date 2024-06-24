@@ -4,7 +4,7 @@
 
 <div>
     <h3>⭐ Olá, meu nome é Jennifer!</h3>
-    <p>Sou desenvolvedora em formação em busca de oportunidades de estágio na área de tecnologia.</p><br>
+    <p>Sou desenvolvedora em formação em busca de oportunidades na área de tecnologia.</p><br>
     <div>
         <a href="mailto:oliveirajennifer2648@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://instagram.com/j3nnixh?igshid=MTNiYzNiMzkwZA==" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
