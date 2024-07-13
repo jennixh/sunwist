@@ -58,5 +58,5 @@ Com frequência, utilizei essas IDEs para desenvolver, codificar, depurar e impl
 
 ### 🎲 Conclusão
 
-Atualmente estou concentrada em desenvolver projetos para enriquecer meu portfólio como desenvolvedora e divulgá-los nas redes sociais. Além disso, estou dedicada a aprofundar meus conhecimentos em estrutura de dados, uma matéria que estou vendo na faculdade de Análise e Desenvolvimento de Sistemas (FATEC-AM), e também em aprimorar minhas habilidades na plataforma .NET com a linguagem C#.
+Estou em busca de desenvolver novos projetos para enriquecer meu portfólio e divulgar nas redes sociais. Atualmente, estou no 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC-AM, com disciplinas focadas em programação orientada a objetos usando as linguagens C# e Java.
 
