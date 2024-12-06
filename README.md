@@ -60,3 +60,7 @@ Com frequência, utilizei essas IDEs para desenvolver, codificar, depurar e impl
 
 Estou em busca de desenvolver novos projetos para enriquecer meu portfólio e divulgar nas redes sociais. Atualmente, estou no 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC-AM, com disciplinas focadas em programação orientada a objetos usando as linguagens C# e Java.
 
+<br>
+
+[![sunwist](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwist&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
