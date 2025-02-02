@@ -58,7 +58,7 @@ Com frequência, utilizei essas IDEs para desenvolver, codificar, depurar e impl
 
 ### 🎲 Conclusão
 
-Estou em busca de desenvolver novos projetos para enriquecer meu portfólio e divulgar nas redes sociais. Atualmente, estou no 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC-AM, com disciplinas focadas em programação orientada a objetos usando as linguagens C# e Java.
+Estou em busca de desenvolver novos projetos para agregar em meu github e criar aplicativos em Flutter. Atualmente, no 5° Semestre de ADS se inicia o desenvolvimento do meu TCC que será um aplicativo em Flutter com uso de API e banco de dados não relacional.
 
 <br>
 
