@@ -1,5 +1,5 @@
 <div>
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=sunwist&show_icons=true&theme=dracula" height="200" alt="stats graph" />
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=jennixh&show_icons=true&theme=dracula" height="200" alt="stats graph" />
 </div>
 
 <div>
@@ -33,6 +33,8 @@ que impactaram positivamente na minha formação acadêmica.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -42,6 +44,10 @@ que impactaram positivamente na minha formação acadêmica.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
 </div><br>
 
 ### 🔭 IDEs
@@ -58,9 +64,9 @@ Com frequência, utilizei essas IDEs para desenvolver, codificar, depurar e impl
 
 ### 🎲 Conclusão
 
-Estou em busca de desenvolver novos projetos para agregar em meu github e criar aplicativos em Flutter. Atualmente, no 5° Semestre de ADS se inicia o desenvolvimento do meu TCC que será um aplicativo em Flutter com uso de API e banco de dados não relacional.
+Estou em busca de desenvolver novos projetos para agregar em meu github. Atualmente, no 5° Semestre de ADS se inicia o planejamento e desenvolvimento do meu Trabalho de Conclusão de Curso que será um aplicativo de lembretes baseado em geolocalização.
 
 <br>
 
-[![sunwist](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwist&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![jennixh](https://github-readme-stats.vercel.app/api/top-langs/?username=jennixh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
